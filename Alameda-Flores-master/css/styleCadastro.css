@@ -75,4 +75,18 @@ body {
     border-radius: 5px;
     cursor: pointer;
     }
+    footer{
+      background-color: #ffffffc7;
+      color: #000;
+    }
+    .container{
+      text-align: center;
+    }
+    .container-end{
+      margin-left: 1%;
+    }
+    .container-cont{
+      margin-left: 1%;
+  
+    }
   

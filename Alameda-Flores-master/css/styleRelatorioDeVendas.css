@@ -73,3 +73,17 @@ h2{
   footer{
     text-align: center;
   }
+  footer{
+    background-color: #ffffffc7;
+    color: #000;
+  }
+  .container{
+    text-align: center;
+  }
+  .container-end{
+    margin-left: 1%;
+  }
+  .container-cont{
+    margin-left: 1%;
+
+  }
